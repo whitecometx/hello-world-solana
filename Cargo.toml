@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+solana-program = "1.17.0"
+solana-client = "1.18.26"
+solana-sdk = "1.18.26"
+
+[lib]
+crate-type = ["cdylib", "lib"]
