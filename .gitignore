@@ -1,0 +1,5 @@
+/target/debug/
+/target/release/
+/target/CACHEDIR.TAG
+/target/sbf-solana-solana/
+.DS_Store
